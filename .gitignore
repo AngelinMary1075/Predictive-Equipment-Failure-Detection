@@ -1,0 +1,5 @@
+﻿__pycache__/
+*.pyc
+data/sensor_data.csv
+.DS_Store
+.venv/
